@@ -1,0 +1,54 @@
+/*Home page*/
+
+body, html {
+    height: 100%;
+}
+                
+.parallax { 
+    background-image: url("Images/vera.jpg");
+    height: 100%; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax h1{
+    color: #ffffff;
+    text-align: center;
+    top: 50%;
+    position: relative;
+}
+
+.main .jumbotron h1{
+    text-align: center;
+    color: #ffffff;
+}
+
+.main .jumbotron h4{
+    text-align: center;
+    color: #ffffff;
+}
+
+.jumbotron {
+    background-color: #CED680;
+}
+
+img{
+    width: 100%;
+}
+
+
+/*About Me*/
+
+
+/*Resume*/
+
+
+/*Projects*/
+
+
+/*Contact Me*/
+.col-sm-3 h4{
+    font-weight: bold;
+}
